@@ -1,0 +1,10 @@
+e2e
+coverage
+.scannerwork
+.vscode
+mock
+node_modules
+sf-unit-report
+*.gulp
+README.md
+src

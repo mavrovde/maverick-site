@@ -1,0 +1,1 @@
+docker push maverickde/mavrovde:latest
